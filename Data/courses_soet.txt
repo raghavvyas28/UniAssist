@@ -1,0 +1,11 @@
+Source: Brochure
+Category: Courses
+School: School of Engineering & Technology (SOET)
+
+The School of Engineering & Technology (SOET) offers a wide range of undergraduate, postgraduate, and doctoral programs across multiple engineering disciplines.
+
+Department of Computer Science and Engineering (CSE):
+The department offers BTech in Computer Science and Engineering with specializations in Artificial Intelligence & Machine Learning, Quantum Computing in AI, Cyber Security & Forensics, Semiconductor Technology, Full Stack Development, Data Science, IoT & 5G, Cloud Computing, Blockchain, and Gaming/AR/VR. It also offers BCA in Web Application Development and Mobile Applications, MCA, MTech in CSE with specializations in Data Science and Cyber Security & Forensics, and PhD programs.
+
+Department of Multidisciplinary Engineering (MDE):
+The department offers BTech in Electronics and Communication Engineering (ECE) with specialization in Semiconductor Design Technology in collaboration with IIT Mandi and NSDC. It also offers MTech programs in Civil Engineering (Structural Engineering, Construction Engineering Management, Environmental Engineering), MTech in ECE (IoT & 5G, Semiconductor Technology), MTech in Mechanical Engineering (Thermal Engineering, Mechanical Engineering Design, Production Industrial Engineering, Electric Mobility), and PhD programs.

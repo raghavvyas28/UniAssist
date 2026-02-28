@@ -1,0 +1,7 @@
+Source: University Website
+Category: Academic Support
+Section: Learning Development Centre
+
+The Learning Development Centre (LDC) supports students’ academic and professional development through mentoring, coaching, and skill enhancement programs. The centre focuses on improving essential academic skills, promoting effective learning strategies, and preparing students for career readiness.
+
+LDC initiatives include guest lectures by industry leaders, training sessions, resume-building workshops, mentoring and coaching sessions, and technical sessions by experts. The centre provides structured academic support to help students achieve academic excellence and professional growth.
